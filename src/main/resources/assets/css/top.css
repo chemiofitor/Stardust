@@ -1,0 +1,13 @@
+#root {
+    -fx-border-width:1px;
+    -fx-border-color:#5E81AC;
+    -fx-background-color:#3B4252;
+}
+
+#button {
+    -fx-background-color:#3B4252;
+}
+
+#button:hover {
+    -fx-background-color:#5E81AC;
+}
